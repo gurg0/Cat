@@ -7,4 +7,15 @@ updated:08/22/2026
 version:0
 
 Settings
-tiling background:https://raw.githubusercontent.com/gurg0/Cat/refs/heads/main/background.png
+//pass for now due to not really having anything to put here
+
+Buttons
+*petCat
+name:Pet Cat!
+desc:Click to pet the cat! Grants 1 Meow per click.
+on click: yield 1 meow
+
+Resources
+*meow
+name:Meow
+desc:<i>"meow"</i> - your cat.
