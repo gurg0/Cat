@@ -20,6 +20,10 @@ Resources
 name:Meow
 desc:<i>"meow"</i> - your cat.
 
+*hair
+name:Hair
+desc:<i>Ew, throw it out!</i>
+
 Buildings
 *yarnBall
 name:Yarn Ball
