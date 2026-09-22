@@ -1,1 +1,3 @@
-
+Let's make a game!
+name: Cat Clicker
+by: gurg0 
