@@ -5,3 +5,6 @@ desc:<i>*Insert description about petting a cat*</i>
 created:08/22/2026
 updated:08/22/2026
 version:0
+
+Settings
+tiling background:https://raw.githubusercontent.com/gurg0/Cat/refs/heads/main/background.png
