@@ -24,5 +24,9 @@ Buildings
 *yarnBall
 name:Yarn Ball
 desc:Let the kitty play, it's good for its health!
-on tick:if (chance(75%)) yield 1 meow
+on tick:
+yield 1 meow
+if (chance(1%))
+  yield 1 hair
+end
 cost:15 meow
