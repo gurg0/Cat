@@ -1,3 +1,7 @@
 Let's make a game!
-name: Cat Clicker
+name: Cat Petter
 by: gurg0 
+desc: *Insert description about petting a cat*
+created:08/22/2026
+updated:08/22/2026
+version:1000000
