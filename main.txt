@@ -19,3 +19,10 @@ Resources
 *meow
 name:Meow
 desc:<i>"meow"</i> - your cat.
+
+Buildings
+*yarnBall
+name:Yarn Ball
+desc:Let the kitty play, it's good for its health!
+on tick:if (chance(75%)) yield 1 meow
+cost:15 meow
