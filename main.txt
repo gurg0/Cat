@@ -30,6 +30,6 @@ name:Yarn Ball
 desc:Let the kitty play, it's good for its health!
 on tick:
 yield 1 meow
-if (chance(1%)) yield 1 hair 
+if (chance(20%)) yield 0.05 hair 
 end
 cost:15 meow
