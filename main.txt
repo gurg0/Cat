@@ -11,9 +11,8 @@ Settings
 
 Buttons
 *petCat
-name:Pet Cat!
-desc:Click to pet the cat! Grants 1 Meow per click.
-on click:yield 1 meow
+  name:Pet Cat!
+  desc:Click to pet the cat! Grants 1 Meow per click.
 
 Resources
 *meow
